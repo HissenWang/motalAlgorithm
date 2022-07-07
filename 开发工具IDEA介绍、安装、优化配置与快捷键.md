@@ -40,7 +40,7 @@
 
 [https://www.jetbrains.com/idea/download/#section=windows](#section=windows)
 
-![img](./imageFolder/wps116.jpg) 
+![img](imageFolder/wps116.jpg) 
 
  
 

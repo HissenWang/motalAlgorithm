@@ -10,7 +10,7 @@
 
 2、官网教程:
 
- https://www.jetbrains.com/help/idea/install-and-set-up-product.html>
+ https://www.jetbrains.com/help/idea/getting-started.html
 
 3、百度百科介绍：
 

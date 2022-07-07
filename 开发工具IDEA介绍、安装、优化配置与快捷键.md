@@ -40,7 +40,7 @@
 
 [https://www.jetbrains.com/idea/download/#section=windows](#section=windows)
 
-![img](F:\6、守护之王觉行\10、普通人学Java系列1—idea的使用\imageFolder\wps116.jpg) 
+![img](./imageFolder/wps116.jpg) 
 
  
 
